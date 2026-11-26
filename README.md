@@ -21,8 +21,8 @@
     -　Gitの使い方が分からない、Gitを初めて使う方は、 https://git-tutorial.backlog.com/  に分かりやすいgitの説明や使い方が記載されているので、一度読んでみてください。
     -　上記のサイトを読んでも分からないことがあれば、BOT管理人にロールメンションの上、運営会議chにてご質問ください。
 
-Copyright (c) 2026 Author listed in the folder name (Representative: Abelian_youchan0124). 
-All rights reserved.
-Personal use is permitted. 
-Commercial use, paid distribution, transfer, or use allowing third parties to view or modify this code requires the author's prior permission via the administrator (
+Copyright (c) 2026 Author listed in the folder name (Representative: Abelian_youchan0124). <br>
+All rights reserved. <br>
+Personal use is permitted. <br>
+Commercial use, paid distribution, transfer, or use allowing third parties to view or modify this code requires the author's prior permission via the administrator <br>
 (abelian.youchan0124@gmail.com).
